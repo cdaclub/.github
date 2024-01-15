@@ -1,5 +1,5 @@
 
-![CDA认证logo2](https://github.com/cdaclub/demo-repository/assets/18277343/221c577c-0d44-4f6b-8150-d6c573041ace)
+![CDA](https://avatars.githubusercontent.com/u/154978764?s=200&v=4)
 
 ### 《CDA持证人会员俱乐部组织章程》
 🙋‍♀️**名称：** CDA持证人会员俱乐部,简称为CDA会员俱乐部，或者CDA俱乐部、CDA CLUB。
